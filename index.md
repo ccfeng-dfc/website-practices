@@ -35,3 +35,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+### TESTING
+
+投手與捕手在球場上是最常交流兩個位置，彼此信任是基本要求，共同面對打者守住局面是最重要任務，兩人能完成一場勝利比賽相輔相成。投手與捕手之間距離18.44公尺，靠著眼神交流、暗號溝通，默契合作贏得勝利，從賽前擬定策略、賽中頻繁討論應變對策、賽後檢討調整，相處時間多了自然關係密切，投捕默契好，也是影響比賽勝率其中一環節。
